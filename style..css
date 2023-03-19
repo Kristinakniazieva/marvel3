@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(205, 43, 226);
+}
+h1 {
+    text-shadow: 3px 5px 6px rgb(51, 129, 153)
+}
+h1 {
+    color:rgb(0, 195, 255)
+}
+h1 {
+    font-size: 53px;
+    text-align: center;
+}
+p {
+    font-size: 22px;
+}
+.limb {
+    text-decoration: none}
+    li {
+        font-size: 24px;
+    }
+ul {
+    font-size: 24px ;
+}
+img {
+    width: 750px;
+    height: 350px;
+    margin-left: 50px;
+}
+p::first-letter {
+    font-size: 200%;
+ }
